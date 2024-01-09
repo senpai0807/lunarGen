@@ -16,7 +16,7 @@ To install simply run
 ### Deprecation
 - A lot of the features, such as the auto update system, discord rpc, checkout/generation analytics, etc. You will have to refactor it if you want to keep/maintain these features or you can remove them entirely
 
-###TODO
+### TODO
 - Within the package.json, set the URL to the platform you'll be using for updates
 - Within checkForUpdate.js, you will need to create a place to store updates and versions. I.E: Digital Oceans, AWS, etc
 - Within the ./src/index.js, you will need to create an auth system for the toolbox to use
