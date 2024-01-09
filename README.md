@@ -23,5 +23,5 @@ To install simply run
 - Within the main.js, if you would like to use discord rpc, you will need to set the client ID
 - You will also need to set your database URL within the .env, I personally used MongoDB
 
-  ### Contribution
-  - Feel free to pull this and do whatever you wish, whether it's to use it as a basis for your current project, or using the modules to integrating into your own software, or simply wanting to distribute it yourself.
+### Contribution
+- Feel free to pull this and do whatever you wish, whether it's to use it as a basis for your current project, or using the modules to integrating into your own software, or simply wanting to distribute it yourself.
