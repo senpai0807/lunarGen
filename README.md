@@ -1,5 +1,5 @@
 # Toolbox
-- This was a toolbox I created two years ago to dip my feet into antibots and fingering printing, as well as automation scripts. I mainly used it as a way to develop my skills as a developer and to further develop my knowledge of JS/NodeJS
+- This was a toolbox I created two years ago to dip my feet into antibots and fingerprinting, as well as automation scripts. I mainly used it as a way to develop my skills as a developer and to further develop my knowledge of JS/NodeJS
 
 ## Features
 - This is a toolbox that mainly targetted Adidas/Nike modules. Modules include Account Generator, Draw (Nike), Account Delete, Account Defaults, Order Check, Session Storage, etc & Also has an ICloud generator
